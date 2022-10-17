@@ -4,7 +4,7 @@ a{
 }
 
 h2{
-    text-decoration: brown;
+    color: brown;
 }
 
 body{
@@ -12,5 +12,5 @@ body{
 }
 table{
     background-color: blueviolet;
-    text-decoration: white;
+    color: white;
 }
